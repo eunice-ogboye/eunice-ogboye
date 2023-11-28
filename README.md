@@ -8,9 +8,7 @@ Web developer an technical writer
 I have been learning to code for 3 years after switching careers. I started with HTML to CSS, bootstrap JavaScript, jQuery, PHP, MySQL and react js but I have really found a passion for frontend web development. I love implementing design and building functionalities in web pages.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My portfolio](http://eunice-ogboye.epizy.com)
 * ✉️  You can contact me at [eunicekemi18@gmail.com](mailto:eunicekemi18@gmail.com)
-* 🚀  I'm currently working on [Wedding website](http://js22.site)
 * 🧠  I'm learning A new framework node js
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Remote jobs
